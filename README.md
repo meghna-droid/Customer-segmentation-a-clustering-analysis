@@ -10,5 +10,4 @@ The Clustering model we use are:
 
     K-means Clusters: Elbow Method
     K-means Clusters: Silhouette Method
-    Hierarchical Agglomerative Clustering
-    Gaussian Mixture Model
+   
